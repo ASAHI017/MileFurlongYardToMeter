@@ -1,3 +1,4 @@
+/* Japanese text Only */
 #include <conio.h>
 #include <stdio.h>
 
